@@ -17,7 +17,7 @@
 | :----: | :----: |
 | ![avatar](./images/movie_run.png) | ![avatar](./images/movie_search.png) |
 
-| 启动页_黑暗魔模式 | 结果页 |
+| 启动页_黑暗模式 | 结果页 |
 | :----: | :----: |
 | ![avatar](./images/movie_search_dark.png) | ![avatar](./images/movie_result.png) |
 
